@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Coca-cola Medium",
+    "description": "Coca-cola Medium",
+    "price": 11364,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/11940.jpg?v=q3rWJL",
+    "authorId": 2,
+    "categoryId": 3,
+    "status": "Active"
+  },
+  {
+    "name": "Sprite Medium",
+    "description": "Sprite Medium",
+    "price": 11364,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/11941.jpg?v=q3rWJL",
+    "authorId": 2,
+    "categoryId": 3,
+    "status": "Active"
+  },
+  {
+    "name": "Hemat Sendiri",
+    "description": "1 Pc Chicken + 1 Rice + 1 Coca-Cola Reguler",
+    "price": 27273,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/12316.jpg?v=q3rWJL",
+    "authorId": 1,
+    "categoryId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Double Chicken 1",
+    "description": "2 Pcs Chicken + 1 Rice",
+    "price": 36819,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/12123.jpg?v=q3rWJL",
+    "authorId": 1,
+    "categoryId": 2,
+    "status": "Active"
+  },
+  {
+    "name": "Kombo Super Star Berdua B",
+    "description": "2 pcs Chicken + 2 Rice + 1 Coca-Cola Reguler + 1 Fun Fries BBQ + 1 Mocha Float + 1 CD",
+    "price": 92818,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/11305.jpg?v=q3rWJL",
+    "authorId": 1,
+    "categoryId": 2,
+    "status": "Active"
+  },
+  {
+    "name": "Combo Chicken Porridge",
+    "description": "1 Chicken Porridge + Hot Tea / Hot Coffee",
+    "price": 21818,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/11337.jpg?v=LA5ZyL",
+    "authorId": 1,
+    "categoryId": 4,
+    "status": "Active"
+  },
+  {
+    "name": "Combo Original Porridge",
+    "description": "1 Original Porridge + Hot Tea / Hot Coffee",
+    "price": 12727,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/10193.jpg?v=LA5ZyL",
+    "authorId": 1,
+    "categoryId": 4,
+    "status": "Active"
+  },
+  {
+    "name": "1 Pc Hot Chili Chicken",
+    "description": "1 Pc Hot Chili Chicken",
+    "price": 20909,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/12376.jpg?v=LA5ZyL",
+    "authorId": 1,
+    "categoryId": 5,
+    "status": "Active"
+  },
+  {
+    "name": "Daebak Don",
+    "description": "Daebak Don",
+    "price": 15454,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/12343.jpg?v=LA5ZyL",
+    "authorId": 1,
+    "categoryId": 5,
+    "status": "Active"
+  },
+  {
+    "name": "Fanta Medium",
+    "description": "Fanta Medium",
+    "price": 11364,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/11942.jpg?v=LA5ZyL",
+    "authorId": 1,
+    "categoryId": 3,
+    "status": "Active"
+  },
+  {
+    "name": "Chococha Float",
+    "description": "Chococha Float",
+    "price": 15000,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/4890.jpg?v=LA5ZyL",
+    "authorId": 1,
+    "categoryId": 3,
+    "status": "Active"
+  },
+  {
+    "name": "Koolz Chocolate",
+    "description": "1 Pcs Koolz Chocolate",
+    "price": 15000,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/9532.jpg?v=LA5ZyL",
+    "authorId": 1,
+    "categoryId": 6,
+    "status": "Active"
+  },
+  {
+    "name": "Koolz Tutti Frutti",
+    "description": "1 Pcs Koolz Tutti Frutti",
+    "price": 15000,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/11795.jpg?v=LA5ZyL",
+    "authorId": 1,
+    "categoryId": 6,
+    "status": "Active"
+  },
+  {
+    "name": "Soft Ice Cream",
+    "description": "1 Pcs Soft Ice Cream",
+    "price": 5000,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/4918.jpg?v=LA5ZyL",
+    "authorId": 1,
+    "categoryId": 6,
+    "status": "Active"
+  },
+  {
+    "name": "Snack Bucket 1",
+    "description": "4 Pcs Chicken Strip + 1 Fun Fries + 1 KFC Winger + 6 Chicken Ball",
+    "price": 78637,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/5587.jpg?v=LA5ZyL",
+    "authorId": 1,
+    "categoryId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Snack Bucket 2",
+    "description": "2 Pcs Chicken Strip + 1 Fun Fries + 1 KFC Winger + 6 Chicken Ball",
+    "price": 65909,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/5588.jpg?v=LA5ZyLL",
+    "authorId": 1,
+    "categoryId": 1,
+    "status": "Active"
+  }
+]
